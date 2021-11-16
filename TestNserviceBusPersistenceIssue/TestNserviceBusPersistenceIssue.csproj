@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NServiceBus.Persistence.Sql" Version="6.2.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\TestNServiceBusPersitenceIssue.Infrastructure\TestNServiceBusPersitenceIssue.Infrastructure.csproj" />
   </ItemGroup>
 
